@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<students>
+    <student>
+        <student_id email="thietn@deakin.edu.au">S111</student_id>
+        <lastname>Nguyen</lastname>
+        <firstname>Lap</firstname>
+        <address>221 Burwood Hwy, Burwood VIC 3125</address>
+    </student>
+    <student>
+        <student_id email="abc@gmail.com">S222</student_id>
+        <lastname>Brown</lastname>
+        <firstname>Alan</firstname>
+        <address>172 Burwood Hwy, Burwood East VIC 3151</address>
+    </student>
+    <student>
+        <student_id email="abc@gmail.com">S333</student_id>
+        <lastname>May</lastname>
+        <firstname>Ella</firstname>
+        <address>3 Burwood Hwy, Burwood East VIC 3151</address>
+    </student>
+    <student>
+        <student_id email="demo@gmail.com">S444</student_id>
+        <lastname>Nguyen</lastname>
+        <firstname>B</firstname>
+        <address>1341 Dandenong Rd, Chadstone VIC 3148</address>
+    </student>
+</students>

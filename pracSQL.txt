@@ -1,0 +1,10 @@
+DROP TABLE Login;
+CREATE TABLE Login
+     ( ID  NUMBER(4) NOT NULL, 
+       USERNAME VARCHAR2(50), 
+       PASSWORD VARCHAR2(20),
+       Primary key (ID) 
+     ); 
+INSERT INTO Login VALUES (1,'admin','SIT780');
+INSERT INTO Login VALUES (2,'guest','SIT780');
+commit;
